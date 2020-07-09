@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on warehouse management for archeological findings
+- 🌱 I’m currently learning Indonesian and NLP
+- 👯 I’m looking to collaborate on NLP
+- 🤔 I’m looking for help with NLP
+- 💬 Ask me about bootstrapping startups
+- 📫 How to reach me: strathausen@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I speak Romanian and some Hebrew
+
 <!--
 **strathausen/strathausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
