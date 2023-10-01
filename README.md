@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on warehouse management for archeological findings
-- 🌱 I’m currently learning Indonesian and NLP
-- 👯 I’m looking to collaborate on NLP
-- 🤔 I’m looking for help with NLP
+- 🌱 I’m currently learning Indonesian and rust
+- 👯 I’m looking to collaborate on rust, web3
+- 🤔 I’m looking for help with rust
 - 💬 Ask me about bootstrapping startups
 - 📫 How to reach me: strathausen@gmail.com
 - 😄 Pronouns: he/him
