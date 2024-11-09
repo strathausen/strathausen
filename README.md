@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on warehouse management for archeological findings
+- 🔭 I’m currently working on a RAG system for financial consultants
 - 🌱 I’m currently learning Indonesian and rust
-- 👯 I’m looking to collaborate on rust, web3
+- 👯 I’m looking to collaborate on llms, rust, web3
 - 🤔 I’m looking for help with rust
 - 💬 Ask me about bootstrapping startups
 - 📫 How to reach me: strathausen@gmail.com
